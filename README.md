@@ -1,5 +1,3 @@
-# ACME_Confectionary
-
 # ACME Confectionary 
 
 ACME Confectionary is a local confectionary company which sells directly out of its single store in Sheffield. Over the years, they’ve become popular amongst locals with many people returning time and again to buy their favourite products. Based on this popularity, the company has received some investment and, after completing a SWOT analysis they’re looking to launch a digital store with the aims of:
